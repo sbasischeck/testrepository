@@ -1,2 +1,2 @@
 # testrepository
-1. Tets for myself
+1. Test for myself
